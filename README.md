@@ -28,10 +28,10 @@ The chatbot will respond based on the user's query.
 Chat history is displayed on the right, showing interactions between the user and the bot.
 
 ## Technologies Used
-Python: Programming language used for application logic.
-Streamlit: Framework used for building interactive web applications.
-Hugging Face: Integrated for natural language processing using LLMs (Large Language Models).
-dotenv: Used for loading environment variables.
+Python: Programming language used for application logic.<br>
+Streamlit: Framework used for building interactive web applications.<br>
+Hugging Face: Integrated for natural language processing using LLMs (Large Language Models).<br>
+dotenv: Used for loading environment variables.<br>
 
 ## Notes
 Ensure your environment variables are properly set before running the application.
